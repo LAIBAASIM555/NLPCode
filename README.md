@@ -37,7 +37,7 @@ NLPApp is a Python-based CLI tool that leverages the NLPCloud API for various Na
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/LAIBAAIM555/NLPApp.git
+    git clone https://github.com/LAIBAASIM555/NLPApp/tree/main
     ```
 
 2. **Navigate into the directory**:
